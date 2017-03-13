@@ -1,1 +1,0 @@
-# assistaint_helper
